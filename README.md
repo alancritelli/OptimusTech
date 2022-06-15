@@ -1,10 +1,10 @@
 # OptimusTech
 
-Site feito com o desafio da Alura no 7daysOfCode!
+Site feito com o desafio #7daysofcode da Alura;
 
-Feito com base no layout do FIGMA e acrescentado algumas coisas...
+Feito no formato mobile first!
 
-Ele ainda está pendente de finalização, pois falta fazer a parte mobile, consertar alguns bugs e refatorar o codigo.
+E utilizado o que foi aprendido com a NLW - Return
 
 Abaixo, uma previa da tela inicial:
-![image](https://user-images.githubusercontent.com/91072603/171969633-69080569-05b9-4144-bf85-76a7b3433be7.png)
+![image](https://user-images.githubusercontent.com/91072603/173959921-075e468e-92b1-41cd-8b92-33dbe6b02b3a.png)
